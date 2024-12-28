@@ -1,0 +1,6 @@
+.container {
+    display: grid;
+    height: 90vh;
+    grid-template-columns: 100px 400px;
+    grid-template-rows: 200px 200px;
+}
